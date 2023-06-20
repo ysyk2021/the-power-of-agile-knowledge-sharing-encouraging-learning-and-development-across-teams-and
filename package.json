@@ -1,0 +1,15 @@
+{
+    "name": "the-power-of-agile-knowledge-sharing-encouraging-learning-and-development-across-teams-and-departments",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "honkit": "^4.0.7"
+    }
+}
