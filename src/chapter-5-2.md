@@ -1,5 +1,4 @@
-Chapter 5: Overcoming Obstacles to Agile Knowledge Sharing: Strategies for Overcoming Challenges
-================================================================================================
+# Strategies for Overcoming Challenges
 
 Implementing agile knowledge sharing initiatives can be challenging, as organizations may face various obstacles that hinder their success. In this chapter, we will discuss strategies for overcoming obstacles to agile knowledge sharing.
 

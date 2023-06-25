@@ -1,5 +1,4 @@
-Chapter 2: Understanding Agile Knowledge Sharing: Common Myths about Agile Knowledge Sharing
-============================================================================================
+# Common Myths about Agile Knowledge Sharing
 
 Agile knowledge sharing is a critical component of any agile environment, promoting collaboration and communication among individuals and teams to support continuous learning and development, improve quality and efficiency, and achieve shared goals. However, there are several common myths associated with agile knowledge sharing that can hinder its effectiveness. In this chapter, we will discuss some of these myths and provide the reality behind them.
 

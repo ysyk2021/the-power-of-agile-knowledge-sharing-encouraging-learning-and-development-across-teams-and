@@ -1,5 +1,4 @@
-Chapter 4: Techniques for Agile Knowledge Sharing: Agile Coaching and Mentoring
-===============================================================================
+# Agile Coaching and Mentoring
 
 Agile coaching and mentoring are powerful techniques for encouraging learning and development across teams and departments. In this chapter, we will discuss the benefits of agile coaching and mentoring and provide tips for implementing these techniques effectively.
 

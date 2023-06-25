@@ -1,5 +1,4 @@
-Chapter 8: Integrating Agile Knowledge Sharing with Organizational Culture: Developing Agile Mindset as a Leader
-================================================================================================================
+# Developing Agile Mindset as a Leader
 
 Effective agile knowledge sharing requires a culture that encourages collaboration, communication, and continuous learning. In this chapter, we will discuss how leaders can integrate agile knowledge sharing with their organizational culture and develop an agile mindset.
 

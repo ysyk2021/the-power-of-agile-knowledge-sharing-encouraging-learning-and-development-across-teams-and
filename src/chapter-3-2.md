@@ -1,5 +1,4 @@
-Chapter 3: Principles of Agile Knowledge Sharing: Creating a Shared Knowledge Base and Best Practices
-=====================================================================================================
+# Creating a Shared Knowledge Base and Best Practices
 
 Agile knowledge sharing requires a foundation of shared knowledge and best practices. In this chapter, we will discuss the principles of creating a shared knowledge base and best practices for agile knowledge sharing.
 

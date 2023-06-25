@@ -1,5 +1,4 @@
-Chapter 6: Measuring Success in Agile Knowledge Sharing: Key Performance Indicators (KPIs) for Measuring Success
-================================================================================================================
+# Key Performance Indicators (KPIs) for Measuring Success
 
 Effective agile knowledge sharing can have a significant impact on an organization's success, including improved quality and efficiency, increased innovation and creativity, and better teamwork. However, measuring the success of agile knowledge sharing programs can be challenging. In this chapter, we will discuss key performance indicators (KPIs) that organizations can use to measure the success of their agile knowledge sharing initiatives.
 

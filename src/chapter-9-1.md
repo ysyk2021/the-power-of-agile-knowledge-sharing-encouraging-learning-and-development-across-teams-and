@@ -1,5 +1,4 @@
-Chapter 9: Ethical Considerations in Agile Knowledge Sharing: Understanding Ethical Guidelines and Standards
-============================================================================================================
+# Understanding Ethical Guidelines and Standards
 
 Agile knowledge sharing is a powerful tool for learning and development across teams and departments. However, it's important to consider ethical guidelines and standards when implementing agile knowledge sharing practices. In this chapter, we will discuss ethical considerations in agile knowledge sharing and provide an overview of ethical guidelines and standards.
 

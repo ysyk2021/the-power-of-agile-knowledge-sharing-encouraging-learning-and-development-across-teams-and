@@ -1,5 +1,4 @@
-Chapter 6: Measuring Success in Agile Knowledge Sharing: Qualitative and Quantitative Methods for Evaluation
-============================================================================================================
+# Qualitative and Quantitative Methods for Evaluation
 
 Effective knowledge sharing is a critical component of any agile environment, promoting collaboration, communication, and continuous learning. However, measuring the success of agile knowledge sharing initiatives can be challenging. In this chapter, we will discuss qualitative and quantitative methods for evaluating the effectiveness of agile knowledge sharing.
 

@@ -1,5 +1,4 @@
-Chapter 3: Principles of Agile Knowledge Sharing: Encouraging Cross-functional and Interdepartmental Learning
-=============================================================================================================
+# Encouraging Cross-functional and Interdepartmental Learning
 
 Agile knowledge sharing requires a culture that encourages cross-functional and interdepartmental learning. In this chapter, we will discuss the principles of creating a culture of cross-functional and interdepartmental learning and strategies for encouraging collaboration and communication.
 

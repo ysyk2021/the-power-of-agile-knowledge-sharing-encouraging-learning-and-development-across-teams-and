@@ -1,5 +1,4 @@
-Chapter 2: Understanding Agile Knowledge Sharing: Benefits of Agile Knowledge Sharing
-=====================================================================================
+# Benefits of Agile Knowledge Sharing
 
 Agile knowledge sharing is a process of exchanging information, insights, and expertise among individuals and teams in an agile environment. It promotes collaboration and communication to support continuous learning and development, improve quality and efficiency, and achieve shared goals. In this chapter, we will discuss the key benefits of agile knowledge sharing.
 
