@@ -10,5 +10,4 @@ In addition to providing practical guidance and advice, "The Power of Agile Know
 
 Overall, "The Power of Agile Knowledge Sharing" is an essential guide for anyone looking to build a high-performing, innovative organization. By encouraging learning and development across teams and departments, organizations can tap into the collective intelligence of their workforce and drive meaningful change and growth.
 
-
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
