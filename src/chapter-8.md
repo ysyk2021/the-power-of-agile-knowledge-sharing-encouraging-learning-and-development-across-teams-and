@@ -16,11 +16,11 @@ Creating a Sustainable and Scalable Learning Environment
 
 Creating a sustainable and scalable learning environment is essential for integrating agile knowledge sharing with organizational culture. Organizations should invest in training and development programs that align with their business goals and provide employees with opportunities to learn new skills and apply them in meaningful ways.
 
-### Sub-chapter: Investing in Employee Development
+### Investing in Employee Development
 
 Investing in employee development is key to creating a sustainable and scalable learning environment. Organizations should provide employees with access to training and development resources, mentorship programs, and job rotation opportunities. This will help employees stay engaged, motivated, and committed to their roles.
 
-### Sub-chapter: Encouraging Cross-Functional Collaboration
+### Encouraging Cross-Functional Collaboration
 
 Encouraging cross-functional collaboration is another important aspect of creating a sustainable and scalable learning environment. Organizations should promote knowledge sharing across teams and departments, encourage employees to work on cross-functional projects, and celebrate successful collaborations.
 
