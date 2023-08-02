@@ -1,4 +1,4 @@
-Chapter: Common Obstacles to Agile Knowledge Sharing
+Common Obstacles to Agile Knowledge Sharing
 ====================================================
 
 In this chapter of **"The Power of Agile Knowledge Sharing: Encouraging Learning and Development Across Teams and Departments"**, we will explore some common obstacles that organizations may face when implementing Agile knowledge sharing practices. By understanding these obstacles, organizations can proactively address them and create strategies to overcome them, fostering a culture of effective knowledge sharing.
