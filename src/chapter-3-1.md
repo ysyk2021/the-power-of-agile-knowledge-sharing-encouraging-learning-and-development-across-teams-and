@@ -1,4 +1,4 @@
-Chapter: Fostering a Culture of Collaboration and Continuous Learning
+Fostering a Culture of Collaboration and Continuous Learning
 =====================================================================
 
 Introduction

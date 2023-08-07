@@ -1,4 +1,4 @@
-Chapter: Balancing Agility with Ethics and Values
+Balancing Agility with Ethics and Values
 =================================================
 
 In today's fast-paced and dynamic working environment, agility has become a key driver of success for organizations. Agile methodologies promote flexibility, adaptability, and collaboration, enabling teams and departments to respond rapidly to changing market demands. However, it is crucial to strike a balance between agility and maintaining strong ethical standards and values within an organization.

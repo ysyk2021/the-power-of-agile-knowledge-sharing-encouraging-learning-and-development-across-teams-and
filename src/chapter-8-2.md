@@ -1,4 +1,4 @@
-Chapter 5: Developing an Agile Mindset as a Leader
+Developing an Agile Mindset as a Leader
 ==================================================
 
 In today's fast-paced and ever-evolving business landscape, leaders play a vital role in driving organizational success. As markets change rapidly and uncertainties prevail, leaders must adapt to new ways of thinking and embrace agile mindsets to navigate through challenges effectively. This chapter explores the importance of developing an agile mindset as a leader and provides practical strategies to cultivate this mindset within oneself and across teams.
