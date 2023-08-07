@@ -65,4 +65,3 @@ Several coaching and mentoring frameworks can be leveraged to support Agile tran
 --------------
 
 Agile coaching and mentoring are essential elements of fostering a culture of continuous learning, growth, and improvement within organizations. Agile coaches provide guidance, support, and process facilitation, helping teams adapt to Agile practices effectively. Mentors play a crucial role in supporting individual growth and development within an Agile context, sharing their knowledge, experiences, and insights. By leveraging coaching and mentoring frameworks, Agile organizations can accelerate their Agile transformations, enhance collaboration, and empower individuals and teams to reach their full potential.
-

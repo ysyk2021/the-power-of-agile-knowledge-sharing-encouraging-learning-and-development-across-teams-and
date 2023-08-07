@@ -52,4 +52,3 @@ Creating a culture of Agile knowledge sharing requires intentional efforts and s
 --------------
 
 Agile knowledge sharing is a fundamental aspect of Agile methodologies and practices. It promotes collaboration, transparency, and continuous learning, leading to improved problem-solving, better decision-making, and increased engagement within organizations. By cultivating a culture that values and supports Agile knowledge sharing, organizations can foster innovation, adaptability, and collective growth across teams and departments.
-
