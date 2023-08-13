@@ -1,7 +1,7 @@
 Key Performance Indicators (KPIs) for Measuring Success
 ================================================================
 
-In this chapter of **"The Power of Agile Knowledge Sharing: Encouraging Learning and Development Across Teams and Departments"**, we will explore the importance of Key Performance Indicators (KPIs) for measuring success in knowledge sharing initiatives. KPIs provide valuable insights into the effectiveness and impact of knowledge sharing practices, enabling organizations to gauge progress, identify areas for improvement, and make data-driven decisions to enhance learning and development across teams and departments.
+In this chapter, we will explore the importance of Key Performance Indicators (KPIs) for measuring success in knowledge sharing initiatives. KPIs provide valuable insights into the effectiveness and impact of knowledge sharing practices, enabling organizations to gauge progress, identify areas for improvement, and make data-driven decisions to enhance learning and development across teams and departments.
 
 **1. Understanding Key Performance Indicators (KPIs)**
 ------------------------------------------------------

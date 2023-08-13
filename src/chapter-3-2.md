@@ -1,7 +1,7 @@
 Creating a Shared Knowledge Base and Best Practices
 ============================================================
 
-In this chapter of **"The Power of Agile Knowledge Sharing: Encouraging Learning and Development Across Teams and Departments"**, we will explore the importance of creating a shared knowledge base and best practices in organizations. By establishing a centralized repository of knowledge and promoting the adoption of best practices, organizations can enhance collaboration, efficiency, and continuous improvement.
+In this chapter, we will explore the importance of creating a shared knowledge base and best practices in organizations. By establishing a centralized repository of knowledge and promoting the adoption of best practices, organizations can enhance collaboration, efficiency, and continuous improvement.
 
 **1. Centralizing Knowledge**
 -----------------------------

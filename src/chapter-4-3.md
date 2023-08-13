@@ -1,7 +1,7 @@
 Communities of Practice and Knowledge Management Systems
 =================================================================
 
-In this chapter of **"The Power of Agile Knowledge Sharing: Encouraging Learning and Development Across Teams and Departments"**, we will explore the significance of Communities of Practice (CoP) and Knowledge Management Systems (KMS) in fostering effective knowledge sharing, collaboration, and development within organizations. CoPs and KMS provide valuable platforms and tools for harnessing collective intelligence and promoting continuous learning across teams and departments.
+In this chapter, we will explore the significance of Communities of Practice (CoP) and Knowledge Management Systems (KMS) in fostering effective knowledge sharing, collaboration, and development within organizations. CoPs and KMS provide valuable platforms and tools for harnessing collective intelligence and promoting continuous learning across teams and departments.
 
 **1. Understanding Communities of Practice**
 --------------------------------------------
