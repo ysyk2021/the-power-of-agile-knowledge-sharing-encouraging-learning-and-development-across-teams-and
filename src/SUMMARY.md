@@ -21,7 +21,6 @@
   - [Key Performance Indicators (KPIs) for Measuring Success](chapter-6-1.md)
   - [Qualitative and Quantitative Methods for Evaluation](chapter-6-2.md)
 - [Chapter 7: Case Studies of Successful Agile Knowledge Sharing](chapter-7.md)
-  - [Real-life Examples of Companies and Leaders who have Successfully Encouraged Learning and Development Across Teams and Departments](chapter-7-1.md)
 - [Chapter 8: Integrating Agile Knowledge Sharing with Organizational Culture](chapter-8.md)
   - [Aligning Agile Knowledge Sharing with Business Goals](chapter-8-1.md)
   - [Developing Agile Mindset as a Leader](chapter-8-2.md)
