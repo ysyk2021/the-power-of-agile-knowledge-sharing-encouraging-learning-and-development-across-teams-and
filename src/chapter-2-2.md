@@ -1,5 +1,3 @@
-Benefits of Agile Knowledge Sharing
-============================================
 
 In this chapter, we will explore the various benefits that Agile knowledge sharing brings to individuals, teams, and organizations. By understanding these advantages, organizations can realize the value of fostering a culture of knowledge sharing and leverage it to enhance learning, collaboration, and overall performance.
 

@@ -1,5 +1,3 @@
-Chapter 6: Measuring Success in Agile Knowledge Sharing
-=======================================================
 
 Measuring the success of agile knowledge sharing initiatives is essential for determining their effectiveness and identifying areas for improvement. In this chapter, we will discuss key performance indicators (KPIs) for measuring success in agile knowledge sharing and the qualitative and quantitative methods for evaluation.
 

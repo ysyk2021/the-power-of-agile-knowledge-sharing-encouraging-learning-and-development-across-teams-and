@@ -1,5 +1,3 @@
-Common Myths About Agile Knowledge Sharing
-===================================================
 
 In this chapter, we will debunk common myths surrounding Agile knowledge sharing. These misconceptions often hinder the effective implementation and understanding of Agile knowledge sharing practices within organizations. By dispelling these myths, we can promote a more accurate and informed perspective on the value and benefits of Agile knowledge sharing.
 

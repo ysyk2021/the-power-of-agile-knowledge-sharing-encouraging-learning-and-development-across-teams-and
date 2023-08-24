@@ -1,5 +1,3 @@
-Definition of Agile Knowledge Sharing
-==============================================
 
 In this chapter, we will explore the concept of Agile knowledge sharing and its importance in fostering a culture of collaboration, continuous learning, and development within organizations. Agile knowledge sharing refers to the process of exchanging information, insights, and expertise among team members and departments in an Agile environment.
 

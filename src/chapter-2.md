@@ -1,5 +1,3 @@
-Chapter 2: Understanding Agile Knowledge Sharing
-================================================
 
 Agile knowledge sharing is a critical component of any agile environment, promoting collaboration and communication among individuals and teams to support continuous learning and development, improve quality and efficiency, and achieve shared goals. In this chapter, we will discuss the definition of agile knowledge sharing, its benefits, and common myths associated with it.
 

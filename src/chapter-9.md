@@ -1,5 +1,3 @@
-Chapter 9: Ethical Considerations in Agile Knowledge Sharing
-============================================================
 
 Agile knowledge sharing can offer many benefits for organizations, but it's essential to consider ethical considerations when implementing agile practices. In this chapter, we will discuss the importance of understanding ethical guidelines and standards, balancing agility with ethics and values, and addressing potential risks and consequences of agile knowledge sharing.
 

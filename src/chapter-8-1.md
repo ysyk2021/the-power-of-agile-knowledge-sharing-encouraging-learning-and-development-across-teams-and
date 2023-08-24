@@ -1,5 +1,3 @@
-Aligning Agile Knowledge Sharing with Business Goals
-===============================================================
 
 In this chapter, we will explore the importance of aligning agile knowledge sharing with the business goals of an organization. By doing so, teams can maximize their learning and development potential while contributing effectively towards achieving the overall objectives of the company.
 

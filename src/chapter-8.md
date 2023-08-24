@@ -1,5 +1,3 @@
-Chapter 8: Integrating Agile Knowledge Sharing with Organizational Culture
-==========================================================================
 
 Aligning Agile Knowledge Sharing with Business Goals
 ----------------------------------------------------

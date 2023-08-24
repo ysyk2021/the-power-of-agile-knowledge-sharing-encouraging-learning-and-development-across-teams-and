@@ -1,5 +1,3 @@
-Importance of Agile Knowledge Sharing
-==============================================
 
 In this chapter, we will explore the importance of Agile knowledge sharing in organizations. By understanding the significance of knowledge sharing, organizations can harness its power to drive learning, collaboration, and growth.
 

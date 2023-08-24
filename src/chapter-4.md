@@ -1,5 +1,3 @@
-Chapter 4: Techniques for Agile Knowledge Sharing
-=================================================
 
 Agile knowledge sharing requires effective techniques and tools to encourage learning and development across teams and departments. In this chapter, we will discuss three key techniques for agile knowledge sharing: pair programming and peer code review, agile coaching and mentoring, and communities of practice and knowledge management systems.
 
@@ -19,5 +17,4 @@ Communities of Practice and Knowledge Management Systems
 Communities of practice and knowledge management systems are techniques for facilitating knowledge sharing and collaboration among individuals with similar interests or areas of expertise. CoPs provide a platform for individuals to share best practices and lessons learned, while KMS enable individuals to access and share information more efficiently.
 
 By using these techniques for agile knowledge sharing, organizations can promote continuous learning and development, facilitate collaboration and communication, and achieve their learning and development goals more effectively.
-
 

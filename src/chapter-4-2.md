@@ -1,5 +1,3 @@
-Agile Coaching and Mentoring
-=====================================
 
 In this chapter, we will explore the role of Agile coaching and mentoring in fostering a culture of continuous improvement, learning, and growth within organizations. Agile coaches and mentors play a crucial role in guiding teams and individuals on their Agile journey, enabling them to embrace Agile principles and practices effectively.
 

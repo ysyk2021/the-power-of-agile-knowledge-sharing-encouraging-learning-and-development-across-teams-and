@@ -1,5 +1,3 @@
-Chapter 5: Overcoming Obstacles to Agile Knowledge Sharing
-==========================================================
 
 Agile knowledge sharing can be a powerful tool for learning and development, but it's not always easy to implement. In this chapter, we will discuss common obstacles to agile knowledge sharing and strategies for overcoming these challenges.
 

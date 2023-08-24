@@ -1,5 +1,3 @@
-Encouraging Cross-Functional and Interdepartmental Learning
-====================================================================
 
 In this chapter, we will explore the importance of cross-functional and interdepartmental learning in organizations. By promoting collaboration and knowledge sharing across different teams and departments, organizations can leverage diverse expertise and perspectives to drive innovation and growth.
 
