@@ -1,3 +1,6 @@
+# The Power of Agile Knowledge Sharing: Encouraging Learning and Development Across Teams and Departments
+
+Book Link: [https://zhengpublishing.com/the-power-of-agile-knowledge-sharing-encouraging-learning-and-development-across-teams-and-departments/](https://zhengpublishing.com/the-power-of-agile-knowledge-sharing-encouraging-learning-and-development-across-teams-and-departments/)
 
 "The Power of Agile Knowledge Sharing: Encouraging Learning and Development Across Teams and Departments" is a book that explores the benefits and challenges of agile knowledge sharing within organizations. In today's fast-paced, ever-changing business environment, it's more important than ever for organizations to foster a culture of continuous learning and development.
 
